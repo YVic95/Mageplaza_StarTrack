@@ -1,6 +1,6 @@
 {
-    "name": "mageplaza/module-star-trek",
-    "description": "The StarTrek shipping",
+    "name": "mageplaza/module-star-track",
+    "description": "The StarTrack shipping",
     "require": {
       "php": "^7.0.0"
     },
@@ -17,5 +17,11 @@
       "psr-4": {
         "Mageplaza\\StarTrek\\": ""
       }
+    },
+    "repositories": {
+        "mageplaza-star-track": {
+            "type": "git",
+            "url": "git@github.com:YVic95/magentoShipping-Extension.git"
+        }
     }
 }
