@@ -25,7 +25,7 @@
         },
         "mageplaza-star-track": {
             "type": "git",
-            "url": "git@github.com:YVic95/magentoShipping-Extension.git"
+            "url": "https://github.com/YVic95/Mageplaza_StarTrack.git"
         }
     }
 }
