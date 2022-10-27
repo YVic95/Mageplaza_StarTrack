@@ -19,6 +19,10 @@
       }
     },
     "repositories": {
+        "0": {
+            "type": "composer",
+            "url": "https://repo.magento.com/"
+        },
         "mageplaza-star-track": {
             "type": "git",
             "url": "git@github.com:YVic95/magentoShipping-Extension.git"
