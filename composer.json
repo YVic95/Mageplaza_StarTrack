@@ -18,14 +18,5 @@
         "Mageplaza\\StarTrack\\": ""
       }
     },
-    "repositories": {
-        "0": {
-            "type": "composer",
-            "url": "https://repo.magento.com/"
-        },
-        "mageplaza-star-track": {
-            "type": "git",
-            "url": "https://github.com/YVic95/Mageplaza_StarTrack.git"
-        }
-    }
+    "minimum-stability": "stable"
 }
